@@ -1,23 +1,6 @@
 This is a project from the John Smilga React course on udemy. 
-## Notes
 
-#### Older React Version
+I learned a lot of things during this project. Using useReducer together with Context API really helps to keep everything organized when projects start to get bigger and to prevent issues with the state not updating when you think it should. Layering different contexts allows you to keep each context fairly light while allowing you to access the state in all of them. 
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
+**[Live Demo](https://lko-react-store-app.netlify.app/) **
 
-#### Current React Version
-
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
-
-#### Alternative fix
-
-.env file in the root
-FAST_REFRESH=FALSE
