@@ -1,3 +1,4 @@
+This is a project from the John Smilga React course on udemy. 
 ## Notes
 
 #### Older React Version
